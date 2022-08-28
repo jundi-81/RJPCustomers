@@ -25,4 +25,3 @@ C:\Users\teljundi\Documents\RJPCustomers\RJPCustomers.APIs\bin\Debug\netcoreapp3
 C:\Users\teljundi\Documents\RJPCustomers\RJPCustomers.APIs\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\teljundi\Documents\RJPCustomers\RJPCustomers.APIs\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\teljundi\Documents\RJPCustomers\RJPCustomers.APIs\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\teljundi\Documents\RJPCustomers\RJPCustomers.APIs\obj\Debug\netcoreapp3.1\RJPCustomers.APIs.csproj.CopyComplete
