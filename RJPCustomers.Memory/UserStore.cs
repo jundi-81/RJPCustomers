@@ -9,6 +9,7 @@
 
     public class UserStore : IUserStore
     {
+        // just for testing
         private List<User> users;
 
         public UserStore()

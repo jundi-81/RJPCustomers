@@ -10,6 +10,7 @@
     public class AccountStore : IAccountStore
     {
         //dictionary was better for testing
+        //just for testing
         private List<Account> accounts;
 
         public AccountStore()
