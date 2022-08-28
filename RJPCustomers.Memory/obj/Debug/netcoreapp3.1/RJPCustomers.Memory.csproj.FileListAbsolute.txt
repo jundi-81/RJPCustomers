@@ -1,0 +1,13 @@
+C:\Users\teljundi\Documents\RJPCustomers\RJPCustomers.Memory\obj\Debug\netcoreapp3.1\RJPCustomers.Memory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teljundi\Documents\RJPCustomers\RJPCustomers.Memory\obj\Debug\netcoreapp3.1\RJPCustomers.Memory.AssemblyInfoInputs.cache
+C:\Users\teljundi\Documents\RJPCustomers\RJPCustomers.Memory\obj\Debug\netcoreapp3.1\RJPCustomers.Memory.AssemblyInfo.cs
+C:\Users\teljundi\Documents\RJPCustomers\RJPCustomers.Memory\obj\Debug\netcoreapp3.1\RJPCustomers.Memory.csproj.CoreCompileInputs.cache
+C:\Users\teljundi\Documents\RJPCustomers\RJPCustomers.Memory\bin\Debug\netcoreapp3.1\RJPCustomers.Memory.deps.json
+C:\Users\teljundi\Documents\RJPCustomers\RJPCustomers.Memory\bin\Debug\netcoreapp3.1\RJPCustomers.Memory.dll
+C:\Users\teljundi\Documents\RJPCustomers\RJPCustomers.Memory\bin\Debug\netcoreapp3.1\RJPCustomers.Memory.pdb
+C:\Users\teljundi\Documents\RJPCustomers\RJPCustomers.Memory\bin\Debug\netcoreapp3.1\RJPCustomers.BLL.dll
+C:\Users\teljundi\Documents\RJPCustomers\RJPCustomers.Memory\bin\Debug\netcoreapp3.1\RJPCustomers.BLL.pdb
+C:\Users\teljundi\Documents\RJPCustomers\RJPCustomers.Memory\obj\Debug\netcoreapp3.1\RJPCustomers.Memory.csproj.AssemblyReference.cache
+C:\Users\teljundi\Documents\RJPCustomers\RJPCustomers.Memory\obj\Debug\netcoreapp3.1\RJPCustomers.Memory.csproj.CopyComplete
+C:\Users\teljundi\Documents\RJPCustomers\RJPCustomers.Memory\obj\Debug\netcoreapp3.1\RJPCustomers.Memory.dll
+C:\Users\teljundi\Documents\RJPCustomers\RJPCustomers.Memory\obj\Debug\netcoreapp3.1\RJPCustomers.Memory.pdb

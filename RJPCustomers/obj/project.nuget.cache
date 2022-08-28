@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oSICkBzUO8ywDNSX9fatxCcdJh3YdhOLTusiy+U9AHClvZIxb8oUTjR48wGQglvxnAtM0Hurj3wghytXDwpYBA==",
+  "dgSpecHash": "sWqEpBSAgUOCZNifc8X6ik+hEKwy71mdKiaMXoUaVsArGjOYgtMg+vgeeOCawWv7/YWCLWYt0Kh0KIqZFVCC7Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\teljundi\\Documents\\RJPCustomers\\RJPCustomers\\RJPCustomers.csproj",
+  "projectFilePath": "C:\\Users\\teljundi\\Documents\\RJPCustomers\\RJPCustomers\\RJPCustomers.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\teljundi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\teljundi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

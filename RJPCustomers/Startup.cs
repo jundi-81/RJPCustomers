@@ -21,7 +21,7 @@ namespace RJPCustomers
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
-            services.AddSwaggerGen();
+            //services.AddSwaggerGen();
 
             services.AddRazorPages();
             services.AddSingleton<IAccountStore, AccountStore>();
@@ -40,12 +40,12 @@ namespace RJPCustomers
             {
                 app.UseDeveloperExceptionPage();
 
-                app.UseSwagger();
-                app.UseSwaggerUI(o =>
-                {
-                    o.SwaggerEndpoint("/swagger/v1/swagger.json", "v1");
-                    o.RoutePrefix = string.Empty;
-                });
+                //app.UseSwagger();
+                //app.UseSwaggerUI(o =>
+                //{
+                //    o.SwaggerEndpoint("/swagger/v1/swagger.json", "v1");
+                //    o.RoutePrefix = "swagger";
+                //});
             }
             else
             {

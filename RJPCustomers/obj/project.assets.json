@@ -72,6 +72,29 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "RJPCustomers.BLL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/RJPCustomers.BLL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RJPCustomers.BLL.dll": {}
+        }
+      },
+      "RJPCustomers.Memory/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "RJPCustomers.BLL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/RJPCustomers.Memory.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RJPCustomers.Memory.dll": {}
+        }
       }
     }
   },
@@ -404,10 +427,22 @@
         "swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "RJPCustomers.BLL/1.0.0": {
+      "type": "project",
+      "path": "../RJPCustomers.BLL/RJPCustomers.BLL.csproj",
+      "msbuildProject": "../RJPCustomers.BLL/RJPCustomers.BLL.csproj"
+    },
+    "RJPCustomers.Memory/1.0.0": {
+      "type": "project",
+      "path": "../RJPCustomers.Memory/RJPCustomers.Memory.csproj",
+      "msbuildProject": "../RJPCustomers.Memory/RJPCustomers.Memory.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "RJPCustomers.BLL >= 1.0.0",
+      "RJPCustomers.Memory >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
   },
@@ -418,9 +453,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\teljundi\\Documents\\RJPCustomers\\RJPCustomers\\RJPCustomers.csproj",
-      "projectName": "RJPCustomers",
-      "projectPath": "C:\\Users\\teljundi\\Documents\\RJPCustomers\\RJPCustomers\\RJPCustomers.csproj",
+      "projectUniqueName": "C:\\Users\\teljundi\\Documents\\RJPCustomers\\RJPCustomers\\RJPCustomers.API.csproj",
+      "projectName": "RJPCustomers.API",
+      "projectPath": "C:\\Users\\teljundi\\Documents\\RJPCustomers\\RJPCustomers\\RJPCustomers.API.csproj",
       "packagesPath": "C:\\Users\\teljundi\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\teljundi\\Documents\\RJPCustomers\\RJPCustomers\\obj\\",
       "projectStyle": "PackageReference",
@@ -441,7 +476,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\teljundi\\Documents\\RJPCustomers\\RJPCustomers.BLL\\RJPCustomers.BLL.csproj": {
+              "projectPath": "C:\\Users\\teljundi\\Documents\\RJPCustomers\\RJPCustomers.BLL\\RJPCustomers.BLL.csproj"
+            },
+            "C:\\Users\\teljundi\\Documents\\RJPCustomers\\RJPCustomers.Memory\\RJPCustomers.Memory.csproj": {
+              "projectPath": "C:\\Users\\teljundi\\Documents\\RJPCustomers\\RJPCustomers.Memory\\RJPCustomers.Memory.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

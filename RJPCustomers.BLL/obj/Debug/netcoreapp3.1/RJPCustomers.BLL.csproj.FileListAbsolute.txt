@@ -1,0 +1,9 @@
+C:\Users\teljundi\Documents\RJPCustomers\RJPCustomers.BLL\obj\Debug\netcoreapp3.1\RJPCustomers.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teljundi\Documents\RJPCustomers\RJPCustomers.BLL\obj\Debug\netcoreapp3.1\RJPCustomers.BLL.AssemblyInfoInputs.cache
+C:\Users\teljundi\Documents\RJPCustomers\RJPCustomers.BLL\obj\Debug\netcoreapp3.1\RJPCustomers.BLL.AssemblyInfo.cs
+C:\Users\teljundi\Documents\RJPCustomers\RJPCustomers.BLL\obj\Debug\netcoreapp3.1\RJPCustomers.BLL.csproj.CoreCompileInputs.cache
+C:\Users\teljundi\Documents\RJPCustomers\RJPCustomers.BLL\bin\Debug\netcoreapp3.1\RJPCustomers.BLL.deps.json
+C:\Users\teljundi\Documents\RJPCustomers\RJPCustomers.BLL\bin\Debug\netcoreapp3.1\RJPCustomers.BLL.dll
+C:\Users\teljundi\Documents\RJPCustomers\RJPCustomers.BLL\bin\Debug\netcoreapp3.1\RJPCustomers.BLL.pdb
+C:\Users\teljundi\Documents\RJPCustomers\RJPCustomers.BLL\obj\Debug\netcoreapp3.1\RJPCustomers.BLL.dll
+C:\Users\teljundi\Documents\RJPCustomers\RJPCustomers.BLL\obj\Debug\netcoreapp3.1\RJPCustomers.BLL.pdb

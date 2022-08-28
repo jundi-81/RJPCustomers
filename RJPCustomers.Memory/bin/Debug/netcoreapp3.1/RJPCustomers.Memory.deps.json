@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RJPCustomers.Memory/1.0.0": {
+        "dependencies": {
+          "RJPCustomers.BLL": "1.0.0"
+        },
+        "runtime": {
+          "RJPCustomers.Memory.dll": {}
+        }
+      },
+      "RJPCustomers.BLL/1.0.0": {
+        "runtime": {
+          "RJPCustomers.BLL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RJPCustomers.Memory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RJPCustomers.BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
